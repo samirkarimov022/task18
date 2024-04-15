@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\bin\Debug\net6.0\TaskClassToday.exe
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\bin\Debug\net6.0\TaskClassToday.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\bin\Debug\net6.0\TaskClassToday.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\bin\Debug\net6.0\TaskClassToday.dll
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\bin\Debug\net6.0\TaskClassToday.pdb
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\TaskClassToday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\TaskClassToday.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\TaskClassToday.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\TaskClassToday.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\TaskClassToday.dll
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\refint\TaskClassToday.dll
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\TaskClassToday.pdb
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\TaskClassToday.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\TaskClassToday\obj\Debug\net6.0\ref\TaskClassToday.dll
